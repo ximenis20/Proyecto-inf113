@@ -1,0 +1,88 @@
+*{
+    color: black; 
+
+
+}
+header{
+    background: url(cenasportada.jpg);
+    background-size: cover;
+	height: 300px;
+	overflow: hidden;
+	width: 1350px;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 80px;
+    text-shadow: 5px 3px 8px #785;
+}
+h2{
+    color: rgb(21, 240, 32);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+ol{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px
+}
+p{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px 
+}
+h3{
+    color: rgb(65, 240, 21);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+h4{
+    color: rgb(21, 79, 240);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+ol{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px
+}
+h5{
+    color: rgb(21, 116, 240);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+h6{
+    color: rgb(255, 105, 45);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+ol{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px
+}
+
+p{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px 
+}
+h7{
+    color: rgb(255, 142, 36);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}

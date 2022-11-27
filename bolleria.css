@@ -1,0 +1,64 @@
+*{
+    color: black; 
+
+
+}
+header{
+    background: url(bolleriaportada.jpg);
+    background-size: cover;
+	height: 300px;
+	overflow: hidden;
+	width: 1350px;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 80px;
+    text-shadow: 5px 3px 8px #785;
+}
+h2{
+    color: rgb(21, 240, 39);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+ol{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px
+}
+
+p{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px 
+}
+h3{
+    color: rgb(127, 240, 21);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+h4{
+    color: rgb(21, 240, 222);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
+ol{
+    font-family:  "Bangers" , cursive; 
+    font-size: 20px
+}
+h5{
+    color: rgb(21, 233, 240);
+    text-align: center;
+    font-family:  "Bangers" , cursive;
+    font-size: 30px;
+    text-shadow: 5px 3px 8px rgb(0, 0, 0);
+    align-content: left;
+}
